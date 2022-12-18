@@ -99,3 +99,6 @@
 - [oPhysics](https://ophysics.com/index.html) - Growing collection of interactive physics simulations for every physics topic.
 - [The Physics Aviary](https://www.thephysicsaviary.com) - Interactive physics simulations for topics in AP Physics 1 and 2.
 - [PhET Physics](https://phet.colorado.edu/en/simulations/filter?subjects=physics&type=html,prototype) - Interactive physics simulations for physics topics across different grade levels.
+
+### Astronomy Simulations
+  - [Scale of the Universe](https://scaleofuniverse.com/) - Interactive website that allows the user to compare the sixe and scale of objects from 10^-35 meters to 10^27 meters.
